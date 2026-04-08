@@ -109,3 +109,6 @@ This project successfully demonstrates how Artificial Intelligence can be applie
 ________________________________________
 ## Author
 •	Utsav Makhija
+# License
+
+This project is for **educational purposes**.
